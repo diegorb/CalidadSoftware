@@ -1,0 +1,19 @@
+{
+  "name": "calidad",
+  "version": "1.0.0",
+  "description": "Software testing homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegorb/CalidadSoftware.git"
+  },
+  "author": "Diego Ramirez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diegorb/CalidadSoftware/issues"
+  },
+  "homepage": "https://github.com/diegorb/CalidadSoftware#readme"
+}
