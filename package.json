@@ -4,7 +4,7 @@
   "description": "Software testing homework",
   "main": "index.js",
   "scripts": {
-    "test": "mocha './longestDigitsPrefix/index.test.js'"
+    "test": "mocha './numMax/index.test.js'"
   },
   "repository": {
     "type": "git",
